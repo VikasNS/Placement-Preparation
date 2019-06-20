@@ -40,10 +40,3 @@ for _ in range(T):
             cost = tempCost
     print(cost)
     
-    
-    
-    
-    
-    
-    
-    
