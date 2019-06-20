@@ -77,10 +77,4 @@ for _ in range(T):
                     if(tempCount > count):
                         count = tempCount
                         j = i
-    print(j,count)
-    
-    
-    
-    
-    
-        
+    print(j,count)    
